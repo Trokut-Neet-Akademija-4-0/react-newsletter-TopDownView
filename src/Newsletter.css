@@ -15,7 +15,7 @@ body {
 .box-main {
     display: flex;
     border-radius: 30px;
-    background-color: white;
+    background-color: black;
     max-height: 500px;
     height: 100vh;
     margin: 0 auto;
@@ -25,7 +25,7 @@ body {
 .box-message {
     display: flex;
     border-radius: 30px;
-    background-color: white;
+    background-color: black;
     height: 400px;
     width: 420px;
     margin: 0 auto;
